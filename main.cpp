@@ -2,20 +2,24 @@
 
 using namespace std;
 
- void foo() {
-    cout << "Amaze amaze amaze!";
-  }
+void foo()
+{
+  cout << " Amaze amaze amaze! ";
+}
 
-  void silly() {
-    cout << "squishy space blob ";
-  }
+void silly()
+{
+  cout << " squishy space blob ";
+}
 
-  void burger() {
-    cout << "minecraft";
-  }
+void burger()
+{
+  cout << " minecraft ";
+}
 
-  int main() {
-    foo();
-    burger();
-    silly();
-  }
+int main()
+{
+  foo();
+  burger();
+  silly();
+}
