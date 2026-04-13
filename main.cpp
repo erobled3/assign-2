@@ -3,7 +3,8 @@
 using namespace std;
 
  void foo() {
-    cout << "";
+    cout << "Amaze amaze amaze!
+    ";
   }
 
   int main() {
