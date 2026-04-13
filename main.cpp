@@ -3,7 +3,7 @@
 using namespace std;
 
  void foo() {
-    cout << "a";
+    cout << "meburger";
   }
 
   int main() {
