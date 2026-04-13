@@ -10,7 +10,9 @@ using namespace std;
     cout << "squishy space blob";
   }
 
-  void 
+  void burger() {
+    
+  }
 
   int main() {
     foo();
