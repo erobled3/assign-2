@@ -11,7 +11,7 @@ using namespace std;
   }
 
   void burger() {
-    
+    cout << "minecraft"
   }
 
   int main() {
