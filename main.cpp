@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
   cout << "Hello world" << endl;
-  ADAB/A/arc4random_buf
+  ADAB/A/ADAB
+  
   void foo() {
     cout << "A";
   }
