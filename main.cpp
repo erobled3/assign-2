@@ -6,7 +6,5 @@ int main()
 {
   cout << "Hello world" << endl;
 
-  void foo() {
-    cout << "A";
-  }
+ 
 }
