@@ -14,7 +14,7 @@ void silly()
 
 void burger()
 {
-  cout << " Grace Rocky s ";
+  cout << " Grace Rocky save stars ";
 }
 
 int main()
