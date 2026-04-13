@@ -8,3 +8,7 @@ int main()
 
  
 }
+
+ void foo() {
+    cout << "a";
+  }
