@@ -7,7 +7,7 @@ using namespace std;
   }
 
   void silly() {
-    cout << "squishy space blob"
+    cout << "squishy space blob";
   }
 
   int main() {
