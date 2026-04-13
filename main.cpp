@@ -14,7 +14,7 @@ void silly()
 
 void burger()
 {
-  cout << " minecraft ";
+  cout << " Grace Rocky s ";
 }
 
 int main()
