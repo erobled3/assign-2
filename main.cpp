@@ -16,5 +16,6 @@ using namespace std;
 
   int main() {
     foo();
-    burger()
+    burger();
+    silly();
   }
