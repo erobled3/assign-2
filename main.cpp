@@ -30,7 +30,7 @@ int main() {
 
   //The time the bike stays in the air//
 
-  double vsquared = pow(vertical_velocity, 2);
+  double v_squared = pow(vertical_velocity, 2);
   double two_times_gravity_height = (2 * GRAVITY * ramp_height);
 
   double time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height)/GRAVITY);
