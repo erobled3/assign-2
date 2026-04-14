@@ -14,7 +14,7 @@ int main() {
   cout << "Bike Velocity: " << bike_velocity << endl;
 
   //THREE The launch angle of the ramp (in degrees)//
-  int bike_velocity = 20;
+  int angle_of_bike = 20;
   cout << "Bike Velocity: " << bike_velocity << endl;
 
   //OUTPUT//
