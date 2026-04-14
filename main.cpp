@@ -20,7 +20,7 @@ int main() {
 
   const double acceleration_due_to_gravity = 32.17405;
 
-  cout << numbers::pi;
+  cout << numbers::pi << endl;
 
 }
 
