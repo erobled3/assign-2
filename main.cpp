@@ -37,7 +37,7 @@ int main() {
   cout << "Time in the Air: " <<time<< " seconds." << endl;
 
   //The maximum height reached during the jump//
-  double squared_vert_velocity/()
+  double height = squared_vert_velocity/(2*GRAVITY)
 
   //The horizontal distance traveled before landing//
   double horizontal_distance = horizontal_velocity *time;
