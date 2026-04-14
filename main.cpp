@@ -4,6 +4,8 @@
 using namespace std;
 
 int main() {
+  
+  const double PI = 3.14159265359;
   //INPUT//
   int ramp_height = 12;
   cout << "Ramp height: " << ramp_height << " feet" << endl;
@@ -25,7 +27,6 @@ int main() {
 
   //const double ACCELERATION_DUE_TO_GRAVITY = 32.17405;//
 
-  const double PI = 3.14159265359;
 
 }
 
