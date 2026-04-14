@@ -22,7 +22,7 @@ int main() {
   //OUTPUT//
   //The horizontal speed of the bike when it leaves the ramp//
   double (bike_velocity * cos(angle_of_bike * PI/180));
-  cout << "Horizontal Velocity: " << horizontal_
+  cout << "Horizontal Velocity: " << horizontal_velocity
   
 
   //vertical velocity//
