@@ -3,6 +3,7 @@
 #include <numbers>
 using namespace std;
 
+int main(); {}
 //INPUT//
 //ONE The height of the ramp above the landing area (in feet)//
 
