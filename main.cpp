@@ -6,7 +6,7 @@ using namespace std;
 int main() {
   //INPUT//
   //ONE The height of the ramp above the landing area (in feet)//
-  cout << "the_height_of_ramp_above_landing_area"
+  cout << "the_height_of_ramp_above_landing_area:" <<
   //TWO The launch velocity of the bike (in feet per second)//
 
   //THREE The launch angle of the ramp (in degrees)//
