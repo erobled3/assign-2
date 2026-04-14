@@ -29,7 +29,7 @@ int main() {
 
 int main () {
 
-  int bees = 
+  int bees = 55;
 }
 
 
