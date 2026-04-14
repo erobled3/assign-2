@@ -26,7 +26,7 @@ int main() {
   
 
   //vertical velocity//
-  
+  double vertical velocity (bike_velocity * sin(angle_of_bike * PI/180));
 
   //The time the bike stays in the air//
 
