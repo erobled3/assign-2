@@ -29,7 +29,7 @@ int main() {
   double vertical_velocity = double (bike_velocity * sin(angle_of_bike * PI/180));
 
   //The time the bike stays in the air//
-  double ver
+  double pow vertical_velocity
   cout << "Air Time: " << time_in_air << endl;
 
   //The maximum height reached during the jump//
