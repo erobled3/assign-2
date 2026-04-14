@@ -40,7 +40,8 @@ int main() {
 
 
   //The horizontal distance traveled before landing//
-  double horizontal_distance = horizontal_velocity 
+  double horizontal_distance = horizontal_velocity *time;
+  cout << 
   //The speed of the bike at landing//
 
   //const double ACCELERATION_DUE_TO_GRAVITY = 32.17405;//
