@@ -31,7 +31,7 @@ int main() {
   //The time the bike stays in the air//
   std::(pow(vertical_velocity, 2);
 
-  cout << "Air Time: " << time_in_air << endl;
+  //cout << "Air Time: " << time_in_air << endl;
 
   //The maximum height reached during the jump//
   //The horizontal distance traveled before landing//
