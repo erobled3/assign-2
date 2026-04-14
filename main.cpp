@@ -4,9 +4,9 @@ using namespace std;
 
 //ONE The height of the ramp above the landing area (in feet)//
 
-//The launch velocity of the bike (in feet per second)//
+//TWO The launch velocity of the bike (in feet per second)//
 
-//The launch angle of the ramp (in degrees)//
+//THREE The launch angle of the ramp (in degrees)//
 
 
 
