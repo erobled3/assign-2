@@ -8,7 +8,7 @@ using namespace std;
 
 //THREE The launch angle of the ramp (in degrees)//
 
-const gr
+const acceleration_due_to_gravity
 
 
 
