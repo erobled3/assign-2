@@ -31,6 +31,7 @@ int main() {
   //The time the bike stays in the air//
 
   double squared_vert_velocity= std::pow(vertical_velocity, 2);
+  double 
 
 
   //cout << "Air Time: " << time_in_air << endl;
