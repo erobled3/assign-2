@@ -22,5 +22,6 @@ int main()
   foo();
   burger();
   silly();
-  
+  foo();
 }
+// parameters like: "doubleIT(int x)"" DO NOT use cin or cout!! they use "return!"//
