@@ -31,9 +31,9 @@ int main() {
   //The time the bike stays in the air//
 
   double v_squared = pow(vertical_velocity, 2);
-  double two_times_gravity_height = (2 * GRAVITY * ramp_height);
+  double twot = (2 * GRAVITY * ramp_height);
 
-  double time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height)/GRAVITY);
+  double time = vertical_velocity + (sqrt(v_squared + two_times_gravity_height)/GRAVITY);
   cout << "Time in the Air: " <<time<< endl;
 
   //cout << "Air Time: " << time_in_air << endl;
