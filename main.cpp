@@ -34,7 +34,7 @@ int main() {
   double two_times_gravity_height = (2 * GRAVITY * ramp_height);
   double air_ish_time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height));
   double time = air_ish_time/GRAVITY;
-  cout << "Time in the Air: " <<time<< " seconds." << endl;
+  cout << "Air Time" <<time<< " seconds." << endl;
   
   //The maximum height reached during the jump//
   double max_height = ramp_height + (squared_vert_velocity/(2*GRAVITY));
