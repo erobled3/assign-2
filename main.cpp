@@ -33,7 +33,8 @@ int main() {
   double squared_vert_velocity = pow(vertical_velocity, 2);
   double two_times_gravity_height = 2 * GRAVITY * ramp_height;
 
-  double time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height)/GRAVITY);
+  double time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height)/GRAVITY)2222222222310.
+  ;
   cout << "Time in the Air: " <<time<< endl;
 
   //cout << "Air Time: " << time_in_air << endl;
