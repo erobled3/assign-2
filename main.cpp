@@ -11,10 +11,10 @@ using namespace std;
 
 //OUTPUT//
 //The horizontal speed of the bike when it leaves the ramp//
-//The time the bike stays in the air
-//The maximum height reached during the jump
-//The horizontal distance traveled before landing
-//The speed of the bike at landing
+//The time the bike stays in the air//
+//The maximum height reached during the jump//
+//The horizontal distance traveled before landing//
+//The speed of the bike at landing//
 
 const int acceleration_due_to_gravity = 32.17405;
 
