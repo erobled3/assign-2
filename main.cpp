@@ -15,7 +15,7 @@ int main() {
 
   //THREE The launch angle of the ramp (in degrees)//
   int angle_of_bike = 20;
-  cout << "Angle of the Bike: " << angle_of_bike << endl;
+  cout << "Angle of the Bike (in degreed): " << angle_of_bike << endl;
 
   //OUTPUT//
   //The horizontal speed of the bike when it leaves the ramp//
