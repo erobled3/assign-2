@@ -3,7 +3,7 @@
 #include <numbers>
 using namespace std;
 
-int main() {}
+int main() {
   //INPUT//
   //ONE The height of the ramp above the landing area (in feet)//
 
@@ -20,7 +20,7 @@ int main() {}
 
   const double acceleration_due_to_gravity = 32.17405;
 
-  std::numbers::pi;
+  cout << numbers::pi;
 
 }
 
