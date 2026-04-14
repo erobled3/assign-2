@@ -9,7 +9,7 @@ int main() {
   int ramp_height = 12;
   cout << "Ramp height: " << ramp_height << endl;
   //TWO The launch velocity of the bike (in feet per second)//
-  int bikeVelocity = 12;
+  int bike_velocity = 12;
   cout << "Ramp height: " << ramp_height << endl;
 
   //THREE The launch angle of the ramp (in degrees)//
@@ -21,7 +21,7 @@ int main() {
   //The horizontal distance traveled before landing//
   //The speed of the bike at landing//
 
-  //const double acceleration_due_to_gravity = 32.17405;//
+  //const double ACCELERATION_DUE_TO_GRAVITY = 32.17405;//
 
   //std::numbers::pi;//
 
