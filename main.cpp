@@ -34,7 +34,7 @@ int main() {
   double two_times_gravity_height = (2 * GRAVITY * ramp_height);
   double air_ish_time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height));
   double time = air_ish_time/GRAVITY;
-  cout << "Air Time" <<time<< " seconds." << endl;
+  cout << "Air Time: " << time << " seconds." << endl;
   
   //The maximum height reached during the jump//
   double max_height = ramp_height + (squared_vert_velocity/(2*GRAVITY));
@@ -45,21 +45,7 @@ int main() {
   cout << "Jump Distance: " << horizontal_distance << " feet." << endl;
   
   //The speed of the bike at landing//
-
-  //const double ACCELERATION_DUE_TO_GRAVITY = 32.17405;//
-
-
+  double squared_horiz_velocity = pow(horizontal_velocity, 2);
+  double landing_speed = sqrt(squared_horiz_velocity + (squared_vert_velocity/(2*GRAVITY)));
+  cout << "Landing Speed: " << landing_speed << "ft/s" << endl;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-// parameters like: "doubleIT(int x)"" DO NOT use cin or cout!! they use "return!"//
