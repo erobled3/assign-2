@@ -37,8 +37,6 @@ int main() {
   double time = air_ish_time/GRAVITY;
   cout << "Time in the Air: " <<time<< endl;
 
-  //cout << "Air Time: " << time_in_air << endl;
-
   //The maximum height reached during the jump//
   //The horizontal distance traveled before landing//
   //The speed of the bike at landing//
