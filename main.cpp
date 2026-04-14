@@ -6,6 +6,20 @@ using namespace std;
 
 //The launch velocity of the bike (in feet per second)//
 
-The launch angle of the ramp (in degrees)//
+//The launch angle of the ramp (in degrees)//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // parameters like: "doubleIT(int x)"" DO NOT use cin or cout!! they use "return!"//
