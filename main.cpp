@@ -22,7 +22,7 @@ int main() {
   //OUTPUT//
   //The horizontal speed of the bike when it leaves the ramp//
   double horizontal_velocity = double (bike_velocity * cos(angle_of_bike * PI/180));
-  cout << "Horizontal Velocity: " << horizontal_velocity << " ft/s"endl;
+  cout << "Horizontal Velocity: " << horizontal_velocity << " ft/s."endl;
   
 
   //vertical velocity//
@@ -34,7 +34,7 @@ int main() {
   double two_times_gravity_height = (2 * GRAVITY * ramp_height);
   double air_ish_time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height));
   double time = air_ish_time/GRAVITY;
-  cout << "Time in the Air: " <<time<< "seconds" << endl;
+  cout << "Time in the Air: " <<time<< "seconds." << endl;
 
   //The maximum height reached during the jump//
 
