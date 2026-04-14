@@ -5,7 +5,7 @@ using namespace std;
 
 int main() 
 {
-    //INPUT//
+  //INPUT//
   //ONE The height of the ramp above the landing area (in feet)//
 
   //TWO The launch velocity of the bike (in feet per second)//
@@ -21,7 +21,7 @@ int main()
 
   const double acceleration_due_to_gravity = 32.17405;
 
-  std::numbers::pi
+  std::numbers::pi;
 
 }
 
