@@ -16,7 +16,7 @@ int main() {
 
   //OUTPUT//
   //The horizontal speed of the bike when it leaves the ramp//
-  
+
   //The time the bike stays in the air//
   //The maximum height reached during the jump//
   //The horizontal distance traveled before landing//
@@ -24,7 +24,7 @@ int main() {
 
   //const double ACCELERATION_DUE_TO_GRAVITY = 32.17405;//
 
-  //std::numbers::pi;//
+constexpr double pi = std::numbers::pi;
 
 }
 
