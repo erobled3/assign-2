@@ -16,7 +16,7 @@ int main() {
 
   //OUTPUT//
   //The horizontal speed of the bike when it leaves the ramp//
-  cos ( bike_velocity);
+  double bike_velicity cos (bike_velocity);
   //The time the bike stays in the air//
   //The maximum height reached during the jump//
   //The horizontal distance traveled before landing//
