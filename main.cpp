@@ -4,9 +4,9 @@
 using namespace std;
 
 int main() {
-  
+
   const double PI = 3.14159265359;
-  //acceleration due to gravity//
+  //below is the acceleration due to gravity//
   const double GRAVITY = 32.17405;
 
   //INPUT//
