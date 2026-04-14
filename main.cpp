@@ -29,7 +29,7 @@ int main() {
   double vertical_velocity = double (bike_velocity * sin(angle_of_bike * PI/180));
 
   //The time the bike stays in the air//
-  vertical_std::pow(vertical_velocity, 2) + (2*GRAVITY*ramp_height)
+  double vertical_velocitystd::pow(vertical_velocity, 2) + (2*GRAVITY*ramp_height)
 
 
   //cout << "Air Time: " << time_in_air << endl;
