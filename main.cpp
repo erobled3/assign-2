@@ -15,7 +15,7 @@ int main() {
   int bike_velocity = 7495;
   cout << "Bike Velocity: " << bike_velocity << " feet per second" << endl;
 
-  int angle_of_bike = 58357;
+  int angle_of_bike = -90;
   cout << "Bike Angle: " << angle_of_bike <<  " degrees" << endl;
 
   //OUTPUT//
