@@ -16,7 +16,7 @@ using namespace std;
 //The horizontal distance traveled before landing//
 //The speed of the bike at landing//
 
-const int acceleration_due_to_gravity = 32.17405;
+const double acceleration_due_to_gravity = 32.17405;
 
 std::numbers::pi
 
