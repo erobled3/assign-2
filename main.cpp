@@ -32,12 +32,13 @@ int main() {
 
   double squared_vert_velocity = pow(vertical_velocity, 2);
   double two_times_gravity_height = (2 * GRAVITY * ramp_height);
-
   double air_ish_time = vertical_velocity + (sqrt(squared_vert_velocity + two_times_gravity_height));
   double time = air_ish_time/GRAVITY;
   cout << "Time in the Air: " <<time<< endl;
 
   //The maximum height reached during the jump//
+
+  
   //The horizontal distance traveled before landing//
   //The speed of the bike at landing//
 
