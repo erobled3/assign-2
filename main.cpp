@@ -25,7 +25,7 @@ int main() {
 
   //const double ACCELERATION_DUE_TO_GRAVITY = 32.17405;//
 
-  const double PI = std::numbers::pi;
+  const double PI = 3.14159265359;
 
 }
 
