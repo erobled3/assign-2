@@ -23,7 +23,7 @@ int main() {
   cout << "Horizontal Velocity: " << double (bike_velocity * cos(angle_of_bike * PI/180));
 
   //The time the bike stays in the air//
-  cout << "Horizontal Velocity: " << double (bike_velocity * cos(angle_of_bike * PI/180));
+  double (bike_velocity * cos(angle_of_bike * PI/180));
   //The maximum height reached during the jump//
   //The horizontal distance traveled before landing//
   //The speed of the bike at landing//
