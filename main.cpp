@@ -7,7 +7,7 @@ int main() {
   
   const double PI = 3.14159265359;
 
-  
+
   //INPUT//
   int ramp_height = 12;
   cout << "Ramp height: " << ramp_height << " feet" << endl;
@@ -20,7 +20,7 @@ int main() {
 
   //OUTPUT//
   //The horizontal speed of the bike when it leaves the ramp//
-  double (bike_velocity * cos(angle_of_bike * PI/180));
+  cout << double (bike_velocity * cos(angle_of_bike * PI/180));
 
   //The time the bike stays in the air//
   //The maximum height reached during the jump//
