@@ -6,6 +6,8 @@ using namespace std;
 int main() {
   
   const double PI = 3.14159265359;
+
+  
   //INPUT//
   int ramp_height = 12;
   cout << "Ramp height: " << ramp_height << " feet" << endl;
