@@ -38,8 +38,9 @@ int main() {
 
   //The maximum height reached during the jump//
 
-  
+
   //The horizontal distance traveled before landing//
+  
   //The speed of the bike at landing//
 
   //const double ACCELERATION_DUE_TO_GRAVITY = 32.17405;//
