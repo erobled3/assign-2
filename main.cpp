@@ -30,7 +30,7 @@ int main() {
 int main () {
 
   int bees = 55;
-  cout << "there are "
+  cout << "there are"<< bees 
 }
 
 
