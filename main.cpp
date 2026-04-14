@@ -6,7 +6,7 @@ using namespace std;
 int main() {
   
   const double PI = 3.14159265359;
-  const double GAVITY = 32.17405;
+  const double GRAVITY = 32.17405;
 
   //INPUT//
   int ramp_height = 12;
