@@ -12,7 +12,7 @@ int main() {
   int ramp_height = 12;
   cout << "Ramp height: " << ramp_height << " feet" << endl;
 
-  int bike_velocity = 55;
+  int bike_velocity = 7495;
   cout << "Bike Velocity: " << bike_velocity << " feet per second" << endl;
 
   int angle_of_bike = 20;
