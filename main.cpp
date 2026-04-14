@@ -11,7 +11,7 @@ int main() {
 
   //TWO The launch velocity of the bike (in feet per second)//
   int bike_velocity = 55;
-  cout << "Bike Velocity: " << bike_velocity << endl;
+  cout << "Bike Velocity: " << bike_velocity << "feet per second" << endl;
 
   //THREE The launch angle of the ramp (in degrees)//
   int angle_of_bike = 20;
