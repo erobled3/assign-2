@@ -9,6 +9,8 @@ int main() {
   int ramp_height = 12;
   cout << "Ramp height: " << ramp_height << endl;
   //TWO The launch velocity of the bike (in feet per second)//
+    int ramp_height = 12;
+  cout << "Ramp height: " << ramp_height << endl;
 
   //THREE The launch angle of the ramp (in degrees)//
 
