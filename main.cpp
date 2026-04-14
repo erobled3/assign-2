@@ -8,7 +8,7 @@ using namespace std;
 
 //THREE The launch angle of the ramp (in degrees)//
 
-const acceleration_due_to_gravity
+const acceleration_due_to_gravity = 32.17405;
 
 std::numbers::pi
 
