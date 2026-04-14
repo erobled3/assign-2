@@ -10,7 +10,7 @@ using namespace std;
 //THREE The launch angle of the ramp (in degrees)//
 
 //OUTPUT//
-The horizontal speed of the bike when it leaves the ramp
+//The horizontal speed of the bike when it leaves the ramp
 The time the bike stays in the air
 The maximum height reached during the jump
 The horizontal distance traveled before landing
