@@ -27,13 +27,6 @@ int main() {
 
 }
 
-int main () {
-
-  int bees = 55;
-  cout << "there are"<< bees << "bees in my houes"
-}
-
-
 
 
 
