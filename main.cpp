@@ -22,7 +22,7 @@ int main() {
   //The horizontal speed of the bike when it leaves the ramp//
   cout << "Horizontal Velocity: " << double (bike_velocity * cos(angle_of_bike * PI/180));
 
-  //vertical velocity
+  //vertical velocity//
   double (bike_velocity * sin(angle_of_bike * PI/180));
 
   //The time the bike stays in the air//
