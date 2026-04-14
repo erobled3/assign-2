@@ -5,7 +5,7 @@ using namespace std;
 
 int main() 
 {
-//INPUT//
+    //INPUT//
 //ONE The height of the ramp above the landing area (in feet)//
 
 //TWO The launch velocity of the bike (in feet per second)//
