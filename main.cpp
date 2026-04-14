@@ -38,7 +38,7 @@ int main() {
   
   //The maximum height reached during the jump//
   double max_height = ramp_height + (squared_vert_velocity/(2*GRAVITY));
-  cout << "Maximum Height " << max_height << " feet." << endl;
+  cout << "Maximum Height: " << max_height << " feet." << endl;
 
   //The horizontal distance traveled before landing//
   double horizontal_distance = horizontal_velocity *time;
