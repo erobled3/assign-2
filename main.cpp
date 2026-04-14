@@ -4,9 +4,9 @@
 using namespace std;
 
 int main() {
-
+  //PI//
   const double PI = 3.14159265359;
-  //below is the acceleration due to gravity//
+  //acceleration due to gravity//
   const double GRAVITY = 32.17405;
 
   //INPUT//
@@ -46,6 +46,7 @@ int main() {
   
   //The speed of the bike at landing//
   double squared_horiz_velocity = pow(horizontal_velocity, 2);
-  double landing_speed = sqrt(squared_horiz_velocity + (squared_vert_velocity/(2*GRAVITY)));
-  cout << "Landing Speed: " << landing_speed << "ft/s" << endl;
+  double almost_ish_speed =(squared_horiz_velocity + (squared_vert_velocity + two_times_gravity_height));
+  double landing_speed = sqrt(almost_ish_speed);
+  cout << "Landing Speed: " << landing_speed << " ft/s." << endl;
 }
